@@ -1,4 +1,5 @@
-# Image-Caption-Generator
+# Depiction of image features with audio to aid visually impaired person
+
 
 ## About
 This project leverages advanced AI models to generate captions for images and translate them into regional languages (Kannada and Hindi). Additionally, it offers text-to-speech conversion, making it accessible to a wider audience, specially those with visual impairments.
